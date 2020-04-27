@@ -1,0 +1,2 @@
+during finding error use lambda=0;
+error means cost i.e half,mean,squared,error;
